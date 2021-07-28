@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ninobrown585/Official-React-Portfolio/static/css/main.7a4c328d.chunk.css",
+    "main.js": "/ninobrown585/Official-React-Portfolio/static/js/main.bcb3e379.chunk.js",
+    "main.js.map": "/ninobrown585/Official-React-Portfolio/static/js/main.bcb3e379.chunk.js.map",
+    "runtime-main.js": "/ninobrown585/Official-React-Portfolio/static/js/runtime-main.07cb1c4a.js",
+    "runtime-main.js.map": "/ninobrown585/Official-React-Portfolio/static/js/runtime-main.07cb1c4a.js.map",
+    "static/js/2.b18f36b0.chunk.js": "/ninobrown585/Official-React-Portfolio/static/js/2.b18f36b0.chunk.js",
+    "static/js/2.b18f36b0.chunk.js.map": "/ninobrown585/Official-React-Portfolio/static/js/2.b18f36b0.chunk.js.map",
+    "index.html": "/ninobrown585/Official-React-Portfolio/index.html",
+    "static/css/main.7a4c328d.chunk.css.map": "/ninobrown585/Official-React-Portfolio/static/css/main.7a4c328d.chunk.css.map",
+    "static/js/2.b18f36b0.chunk.js.LICENSE.txt": "/ninobrown585/Official-React-Portfolio/static/js/2.b18f36b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07cb1c4a.js",
+    "static/js/2.b18f36b0.chunk.js",
+    "static/css/main.7a4c328d.chunk.css",
+    "static/js/main.bcb3e379.chunk.js"
+  ]
+}
